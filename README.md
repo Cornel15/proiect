@@ -1,7 +1,6 @@
 Am creat o aplicatia prntru programarea examenelor.
 
 Am utilizat bibliotecile:
-
 import tkinter as tk-billioteca pentru crearea interfatei grafice
 
 from tkinter import messagebox
